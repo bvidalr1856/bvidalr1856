@@ -9,5 +9,4 @@ I know C++, VHDL, Assembler, JS and the related to network technologies and micr
 - 🌱 I’m currently learning some programming languages as python and C, also currently working in some projects with nextjs and diving deeply into wireless technologies.
 - 💞️ I’m looking to collaborate on microcontroller's porjects, FPGA's projects as well, software development projects and both fixed and wireless networking 
 projects.
-- 📫 How to reach me: in telegram @bad_coll, my personal email @dntstpdnoise@gmail.com, my twitter @brian970818.
-
+- 📫 How to reach me: in telegram @bad_coll, my personal email dntstpdnoise@gmail.com, my professionals emails [bvidalr1856@gmail.com, bvidalr1856@proton.me] and my insta @bvidalr1856.
